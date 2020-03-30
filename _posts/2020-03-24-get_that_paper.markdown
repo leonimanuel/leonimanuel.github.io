@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**Get That Paper**"
-date:       2020-03-24 23:24:00 +0000
+title:      "Get That Paper"
+date:       2020-03-24 19:24:01 -0400
 permalink:  get_that_paper
 ---
 
