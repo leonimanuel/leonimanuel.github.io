@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Remote vs. Local: Which one's true? Which one's right for you?"
-date:       2020-05-14 15:24:17 +0000
+date:       2020-05-14 11:24:17 -0400
 permalink:  remote_vs_local_which_ones_true_which_ones_right_for_you
 ---
 
