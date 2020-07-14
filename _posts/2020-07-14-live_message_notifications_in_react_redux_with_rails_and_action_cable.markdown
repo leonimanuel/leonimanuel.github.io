@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Live Message Notifications in React/Redux with Rails and Action Cable"
-date:       2020-07-14 17:36:50 +0000
+date:       2020-07-14 13:36:51 -0400
 permalink:  live_message_notifications_in_react_redux_with_rails_and_action_cable
 ---
 
