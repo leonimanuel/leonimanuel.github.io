@@ -1,0 +1,17 @@
+[
+  {
+    "id": "cats",
+    "label": "Cats",
+    "value": 20.841304882605634
+  },
+  {
+    "id": "dogs",
+    "label": "Dogs",
+    "value": 0.7823192704847549
+  },
+  {
+    "id": "rabbits",
+    "label": "Rabits",
+    "value": 14.396806324325755
+  }
+]
