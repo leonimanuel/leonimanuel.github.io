@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <div className="chart-container">
-        {/* <WaffleChart data={demoWaffleData} /> */}
+        <WaffleChart data={demoWaffleData} />
         SUP
       </div>
 
