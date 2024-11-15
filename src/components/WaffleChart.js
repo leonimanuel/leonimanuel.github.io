@@ -8,7 +8,7 @@ import { ResponsiveWaffle } from '@nivo/waffle'
 const WaffleChart = ({ data /* see data tab */ }) => (
     <ResponsiveWaffle
         data={data}
-        // total={340}
+        total={100}
         rows={18}
         columns={14}
         padding={1}

@@ -8,12 +8,7 @@ function App() {
     <div className="App">
       <div className="chart-container">
         <WaffleChart data={demoWaffleData} />
-        SUP
-      </div>
-
-      <div className="chart-container">
-        {/* <WaffleChart data={demoWaffleData} /> */}
-      </div>      
+      </div>   
     </div>
   );
 }
